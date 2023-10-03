@@ -1,0 +1,40 @@
+h1
+{
+  font-family: Verdana;
+  font-style: italic;
+}
+h1
+{
+  color: blue;
+  width: 100%;
+  height: 50px;
+  border: 1px solid black;
+  background-color:#f35106;
+  border-radius: 50px;
+  
+}
+p
+{
+  background-color: #f35106;
+  font-display: yellow;
+}
+p
+{
+  font-family: 15px;
+}
+body
+{
+    background-size: cover;
+    background-image: url("csc102\ Index\ Img\ 6");
+    background-position: 50% page;
+    background-repeat: repeat;
+    background-color: lightgray;
+}
+
+
+
+
+
+
+
+  
